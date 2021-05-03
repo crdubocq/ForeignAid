@@ -1,0 +1,891 @@
+agency,dac_category,country,amt
+ADF,Agriculture,Benin,95839.0
+ADF,Agriculture,Burkina Faso,20094.0
+ADF,Agriculture,Congo (Kinshasa),119945.0
+ADF,Agriculture,Guinea,226966.0
+ADF,Agriculture,Kenya,178920.0
+ADF,Agriculture,Liberia,21372.0
+ADF,Agriculture,Mali,177465.0
+ADF,Agriculture,Niger,17322.0
+ADF,Agriculture,Rwanda,61047.0
+ADF,Agriculture,Senegal,104675.0
+ADF,Agriculture,Uganda,80330.0
+ADF,Agriculture,Zambia,21865.0
+ADF,Agriculture,Zimbabwe,147010.0
+ADF,Economic Growth,Kenya,7000.0
+ADF,Economic Growth,Nigeria,156107.0
+ADF,Economic Growth,Tanzania,93274.0
+ADF,Infrastructure,Uganda,213948.0
+ADF,Other,Kenya,375278.0
+ADF,Other,Malawi,8450.0
+ADF,Other,Tanzania,10000.0
+AF,Governance,Cameroon,121395.0
+AF,Governance,Gambia,20069.0
+AF,Governance,Georgia,60208.0
+AF,Governance,Jordan,61676.0
+AF,Governance,Mexico,20069.0
+AF,Governance,Paraguay,20069.0
+AF,Governance,Romania,61676.0
+AF,Governance,Sri Lanka,60208.0
+AF,Governance,Thailand,80278.0
+AGR,Agriculture,Algeria,100000.0
+AGR,Agriculture,Egypt,49830.0
+AGR,Agriculture,Indonesia,11356.0
+AGR,Agriculture,Jordan,762.0
+AGR,Agriculture,Peru,15459.0
+AGR,Agriculture,Slovenia,30000.0
+AGR,Agriculture,Timor-Leste,49819.0
+AGR,Agriculture,Tunisia,50000.0
+AGR,Agriculture,Ukraine,20000.0
+AGR,Agriculture,Vietnam,168065.0
+AGR,Education,Cambodia,590.0
+AGR,Education,Honduras,4806219.0
+AGR,Education,Mozambique,4760822.0
+AGR,Education,Nicaragua,5500000.0
+AGR,Education,Senegal,2689852.0
+AGR,Other,Russia,104000.0
+ARMY,Governance,Bulgaria,239960.0
+ARMY,Governance,Georgia,800156.0
+ARMY,Governance,Honduras,400078.0
+ARMY,Governance,Mongolia,479919.0
+DOC,Education,Georgia,50241.0
+DOD,Governance,Afghanistan,6108729.0
+DOD,Governance,Argentina,1074235.0
+DOD,Governance,Armenia,9593.0
+DOD,Governance,Azerbaijan,38836.0
+DOD,Governance,Bahrain,5495.0
+DOD,Governance,Bangladesh,23523.0
+DOD,Governance,Barbados,330000.0
+DOD,Governance,Belize,24031.0
+DOD,Governance,Benin,401150.0
+DOD,Governance,Bhutan,3773.0
+DOD,Governance,Bosnia and Herzegovina,5597772.0
+DOD,Governance,Botswana,35175.0
+DOD,Governance,Brazil,6501.0
+DOD,Governance,Burkina Faso,546444.0
+DOD,Governance,Burma (Myanmar),15512.0
+DOD,Governance,Cambodia,10551.0
+DOD,Governance,Cameroon,442439.0
+DOD,Governance,Canada,553.0
+DOD,Governance,Colombia,2395066.0
+DOD,Governance,Costa Rica,7611.0
+DOD,Governance,Czechia,996453.0
+DOD,Governance,Djibouti,3959499.0
+DOD,Governance,Ecuador,1983.0
+DOD,Governance,Egypt,15387.0
+DOD,Governance,El Salvador,1675556.0
+DOD,Governance,Estonia,44597.0
+DOD,Governance,Ethiopia,3803417.0
+DOD,Governance,Georgia,40870.0
+DOD,Governance,Ghana,875800.0
+DOD,Governance,Guatemala,289367.0
+DOD,Governance,Honduras,173259.0
+DOD,Governance,Hungary,101973.0
+DOD,Governance,India,1692732.0
+DOD,Governance,Indonesia,22186831.0
+DOD,Governance,Iraq,99038.0
+DOD,Governance,Jamaica,11893.0
+DOD,Governance,Jordan,4091918.0
+DOD,Governance,Kazakhstan,11483009.0
+DOD,Governance,Kenya,83400.0
+DOD,Governance,Kiribati,21550.0
+DOD,Governance,Korea Republic,1293.0
+DOD,Governance,Kyrgyzstan,45674.0
+DOD,Governance,Lebanon,209064153.0
+DOD,Governance,Lithuania,78953034.0
+DOD,Governance,Malaysia,6504.0
+DOD,Governance,Mexico,137413.0
+DOD,Governance,Micronesia (Federated States),951514.0
+DOD,Governance,Moldova,6912.0
+DOD,Governance,Morocco,161723.0
+DOD,Governance,Mozambique,6401.0
+DOD,Governance,Netherlands,9850.0
+DOD,Governance,North Macedonia,341557.0
+DOD,Governance,Pakistan,368443545.0
+DOD,Governance,Panama,947401.0
+DOD,Governance,Peru,170000.0
+DOD,Governance,Philippines,38985239.0
+DOD,Governance,Romania,15445943.0
+DOD,Governance,Rwanda,12018.0
+DOD,Governance,Saudi Arabia,115241.0
+DOD,Governance,Senegal,6553.0
+DOD,Governance,Slovak Republic,39826.0
+DOD,Governance,Somalia,194923.0
+DOD,Governance,South Africa,230961.0
+DOD,Governance,Sri Lanka,657142.0
+DOD,Governance,Tanzania,8632.0
+DOD,Governance,Thailand,25932.0
+DOD,Governance,Timor-Leste,8701.0
+DOD,Governance,Togo,144259.0
+DOD,Governance,Tunisia,7986.0
+DOD,Governance,Turkey,1883959.0
+DOD,Governance,Turkmenistan,12293.0
+DOD,Governance,Uganda,4113473.0
+DOD,Governance,Ukraine,30060.0
+DOD,Governance,Uzbekistan,27416.0
+DOD,Governance,Vietnam,13396.0
+DOD,Health and Population,Botswana,202068.0
+DOD,Health and Population,Gabon,63181.0
+DOD,Health and Population,Liberia,545081.0
+DOD,Health and Population,Madagascar,101889.0
+DOD,Health and Population,Peru,511171.0
+DOD,Health and Population,Rwanda,2949780.0
+DOD,Health and Population,Tanzania,44566578.0
+DOD,Infrastructure,Indonesia,3000000.0
+DOD,Infrastructure,Moldova,1000000.0
+DOD,Infrastructure,Philippines,4144000.0
+DOD,Infrastructure,Tunisia,9539000.0
+DOE,Economic Growth,Algeria,2005.0
+DOE,Economic Growth,India,364000.0
+DOE,Economic Growth,Korea Republic,167919.0
+DOE,Governance,Russia,322916.0
+DOE,Infrastructure,Belarus,93843.0
+DOE,Infrastructure,Kazakhstan,107802.0
+DOI,Health and Population,Marshall Islands,1110431.0
+DOI,Infrastructure,Micronesia (Federated States),988000.0
+DOI,Other,Cambodia,59976.0
+DOI,Other,Congo (Brazzaville),3063503.0
+DOI,Other,Cote d'Ivoire,20000.0
+DOI,Other,Ecuador,109480.0
+DOI,Other,Guinea,15220.0
+DOI,Other,Guyana,32604.0
+DOI,Other,Indonesia,139110.0
+DOI,Other,Mexico,200000.0
+DOI,Other,Micronesia (Federated States),1713364.0
+DOI,Other,Nepal,81210.0
+DOI,Other,Zambia,100000.0
+DOJ,Governance,Mexico,250151.0
+DOJ,Governance,Peru,43174.0
+DOL,Governance,Argentina,2500000.0
+DOL,Governance,Costa Rica,352082.0
+DOL,Governance,Haiti,795751.0
+DOL,Governance,Nepal,46611.0
+DOT,Infrastructure,Papua New Guinea,5491.0
+FTC,Economic Growth,Nigeria,11891.0
+FTC,Economic Growth,Peru,2363.0
+HHS,Health and Population,Bangladesh,26710.0
+HHS,Health and Population,Barbados,122114.0
+HHS,Health and Population,Benin,1153.0
+HHS,Health and Population,Brazil,1313724.0
+HHS,Health and Population,Burkina Faso,75446.0
+HHS,Health and Population,Burma (Myanmar),734867.0
+HHS,Health and Population,Congo (Kinshasa),6651250.0
+HHS,Health and Population,Cote d'Ivoire,67566.0
+HHS,Health and Population,Dominican Republic,16271.0
+HHS,Health and Population,Ethiopia,532887.0
+HHS,Health and Population,Ghana,309759.0
+HHS,Health and Population,Guatemala,49000.0
+HHS,Health and Population,Guinea,715811.0
+HHS,Health and Population,India,1048837.0
+HHS,Health and Population,Indonesia,151315.0
+HHS,Health and Population,Iraq,38982.0
+HHS,Health and Population,Kenya,104384.0
+HHS,Health and Population,Malawi,18308.0
+HHS,Health and Population,Mali,297846.0
+HHS,Health and Population,Morocco,28875.0
+HHS,Health and Population,Mozambique,292624.0
+HHS,Health and Population,Pakistan,139225.0
+HHS,Health and Population,Papua New Guinea,174465.0
+HHS,Health and Population,Russia,350.0
+HHS,Health and Population,Rwanda,2414.0
+HHS,Health and Population,Sierra Leone,194153.0
+HHS,Health and Population,South Africa,990758.0
+HHS,Health and Population,Tanzania,820812.0
+HHS,Health and Population,Thailand,169209.0
+HHS,Health and Population,Uganda,782575.0
+HHS,Health and Population,Vietnam,3186463.0
+HHS,Health and Population,Zambia,4201676.0
+HHS,Humanitarian,Guinea,179805.0
+IAF,Agriculture,Brazil,13796.0
+IAF,Agriculture,El Salvador,9200.0
+IAF,Agriculture,Guatemala,70203.0
+IAF,Agriculture,Honduras,86100.0
+IAF,Agriculture,Mexico,61489.0
+IAF,Agriculture,Paraguay,51200.0
+IAF,Agriculture,Peru,232736.0
+IAF,Economic Growth,Argentina,14020.0
+IAF,Education,Honduras,15000.0
+IAF,Governance,Colombia,304595.0
+IAF,Governance,El Salvador,63515.0
+IAF,Governance,Mexico,37030.0
+IAF,Governance,Paraguay,52419.0
+IAF,Other,Honduras,99196.0
+IAF,Other,Nicaragua,175944.0
+MCC,Administrative Costs,Cote d'Ivoire,5870000.0
+MCC,Administrative Costs,Honduras,67200.0
+MCC,Administrative Costs,Liberia,92413.0
+MCC,Administrative Costs,Mongolia,97083.0
+MCC,Administrative Costs,Niger,1344717.0
+MCC,Administrative Costs,Togo,483000.0
+MCC,Agriculture,Niger,1818857.0
+MCC,Infrastructure,Ghana,53703.0
+MCC,Infrastructure,Kosovo,440116.0
+MCC,Infrastructure,Niger,3150000.0
+MCC,Other,Benin,508128.0
+MCC,Other,Cote d'Ivoire,92821.0
+MCC,Other,El Salvador,361937.0
+MCC,Other,Honduras,199092.0
+MCC,Other,Indonesia,1879408.0
+MCC,Other,Kosovo,1750000.0
+MCC,Other,Lesotho,719217.0
+MCC,Other,Malawi,23649.0
+MCC,Other,Morocco,75000.0
+MCC,Other,Nepal,306162.0
+MCC,Other,Sao Tome and Principe,158432.0
+MCC,Other,Senegal,16578.0
+MCC,Other,Solomon Islands,170585.0
+MCC,Other,Timor-Leste,56645.0
+NAVY,Governance,Cambodia,563900.0
+NAVY,Governance,Honduras,728370.0
+NAVY,Governance,Micronesia (Federated States),323068.0
+PC,Education,Albania,77999.0
+PC,Education,Belize,30022.0
+PC,Education,Cambodia,14951.0
+PC,Education,Cameroon,211085.0
+PC,Education,China (P.R.C.),473583.0
+PC,Education,Comoros,206215.0
+PC,Education,Dominican Republic,695176.0
+PC,Education,Ecuador,758772.0
+PC,Education,Ethiopia,317295.0
+PC,Education,Georgia,501342.0
+PC,Education,Ghana,130954.0
+PC,Education,Jamaica,140992.0
+PC,Education,Liberia,153049.0
+PC,Education,Madagascar,179016.0
+PC,Education,Malawi,950129.0
+PC,Education,Moldova,138648.0
+PC,Education,Mongolia,275930.0
+PC,Education,Morocco,137923.0
+PC,Education,Nicaragua,448507.0
+PC,Education,Paraguay,179308.0
+PC,Education,Peru,124873.0
+PC,Education,Philippines,198246.0
+PC,Education,Timor-Leste,211088.0
+PC,Education,Vanuatu,268705.0
+PC,Education,Zambia,1431.0
+PC,Governance,Benin,323.0
+PC,Governance,Ghana,707545.0
+PC,Governance,Madagascar,264821.0
+PC,Governance,Panama,461293.0
+PC,Governance,Philippines,960.0
+PC,Governance,Senegal,356469.0
+PC,Governance,Togo,7269.0
+PC,Health and Population,Benin,102919.0
+PC,Health and Population,Botswana,797511.0
+PC,Health and Population,Cameroon,50871.0
+PC,Health and Population,Ecuador,27737.0
+PC,Health and Population,Eswatini,161022.0
+PC,Health and Population,Guinea,13200.0
+PC,Health and Population,Kyrgyzstan,4428.0
+PC,Health and Population,Madagascar,2290.0
+PC,Health and Population,Malawi,366789.0
+PC,Health and Population,Moldova,410879.0
+PC,Health and Population,Mozambique,500951.0
+PC,Health and Population,Senegal,463730.0
+PC,Health and Population,Togo,264135.0
+PC,Health and Population,Zambia,356068.0
+PC,Other,Guinea,438184.0
+PC,Other,Guyana,31279.0
+PC,Other,Jamaica,574169.0
+PC,Other,Liberia,5371.0
+PC,Other,Malawi,170032.0
+PC,Other,Samoa,1765.0
+STATE,Administrative Costs,Afghanistan,1365.0
+STATE,Administrative Costs,Azerbaijan,429.0
+STATE,Administrative Costs,Kazakhstan,39852.0
+STATE,Administrative Costs,Philippines,38519.0
+STATE,Administrative Costs,Poland,1572.0
+STATE,Administrative Costs,Sri Lanka,3376.0
+STATE,Administrative Costs,Uzbekistan,8183.0
+STATE,Agriculture,Georgia,43920.0
+STATE,Economic Growth,Afghanistan,635000.0
+STATE,Economic Growth,Burma (Myanmar),70000.0
+STATE,Economic Growth,Guatemala,500000.0
+STATE,Economic Growth,North Macedonia,185310.0
+STATE,Economic Growth,Tunisia,700000.0
+STATE,Education,Egypt,3300000.0
+STATE,Governance,Afghanistan,430346.0
+STATE,Governance,Angola,41015.0
+STATE,Governance,Argentina,447164.0
+STATE,Governance,Armenia,128836.0
+STATE,Governance,Azerbaijan,10272.0
+STATE,Governance,Bangladesh,7242501.0
+STATE,Governance,Belarus,1297.0
+STATE,Governance,Benin,15750000.0
+STATE,Governance,Bolivia,310031.0
+STATE,Governance,Bosnia and Herzegovina,242000.0
+STATE,Governance,Brazil,67000.0
+STATE,Governance,Burkina Faso,40000.0
+STATE,Governance,Burma (Myanmar),253717.0
+STATE,Governance,Cambodia,200000.0
+STATE,Governance,Cameroon,659546.0
+STATE,Governance,Chad,2105715.0
+STATE,Governance,Chile,5307.0
+STATE,Governance,Colombia,340000.0
+STATE,Governance,Congo (Kinshasa),566818.0
+STATE,Governance,Cote d'Ivoire,48940.0
+STATE,Governance,Cuba,209545.0
+STATE,Governance,Djibouti,83333.0
+STATE,Governance,Ecuador,45000.0
+STATE,Governance,Egypt,300000.0
+STATE,Governance,Eswatini,60000.0
+STATE,Governance,Ethiopia,233566.0
+STATE,Governance,Georgia,165105.0
+STATE,Governance,Guatemala,8883652.0
+STATE,Governance,Honduras,55000.0
+STATE,Governance,India,2555578.0
+STATE,Governance,Indonesia,949222.0
+STATE,Governance,Iraq,27065060.0
+STATE,Governance,Kazakhstan,97890.0
+STATE,Governance,Kenya,724349.0
+STATE,Governance,"Korea, Democratic Republic",1179200.0
+STATE,Governance,Kosovo,72000.0
+STATE,Governance,Kyrgyzstan,400000.0
+STATE,Governance,Laos,1073396.0
+STATE,Governance,Lebanon,3226567.0
+STATE,Governance,Liberia,104700.0
+STATE,Governance,Libya,5169968.0
+STATE,Governance,Malawi,435715.0
+STATE,Governance,Mexico,108715.0
+STATE,Governance,Moldova,8020247.0
+STATE,Governance,Mongolia,4401.0
+STATE,Governance,Morocco,5066785.0
+STATE,Governance,Niger,3587952.0
+STATE,Governance,Nigeria,125000.0
+STATE,Governance,North Macedonia,43134.0
+STATE,Governance,Oman,185621.0
+STATE,Governance,Pakistan,339000.0
+STATE,Governance,Panama,4580.0
+STATE,Governance,Paraguay,60000.0
+STATE,Governance,Peru,45000.0
+STATE,Governance,Philippines,5710844.0
+STATE,Governance,Serbia,173000.0
+STATE,Governance,Somalia,192332.0
+STATE,Governance,South Africa,80744.0
+STATE,Governance,Sri Lanka,1806779.0
+STATE,Governance,Syria,1492177.0
+STATE,Governance,Tanzania,65008.0
+STATE,Governance,Thailand,1884727.0
+STATE,Governance,Tunisia,86087.0
+STATE,Governance,Turkey,125230.0
+STATE,Governance,Uganda,143923.0
+STATE,Governance,Ukraine,4959400.0
+STATE,Governance,Uzbekistan,33500.0
+STATE,Governance,Venezuela,1695997.0
+STATE,Governance,Vietnam,641000.0
+STATE,Governance,Yemen,381850.0
+STATE,Governance,Zimbabwe,700000.0
+STATE,Humanitarian,Algeria,8150000.0
+STATE,Humanitarian,Bangladesh,24000000.0
+STATE,Humanitarian,Brazil,1900000.0
+STATE,Humanitarian,Cameroon,21707958.0
+STATE,Humanitarian,Central African Republic,5500000.0
+STATE,Humanitarian,Colombia,2000000.0
+STATE,Humanitarian,Ethiopia,1000000.0
+STATE,Humanitarian,Georgia,1953.0
+STATE,Humanitarian,Iraq,2950929.0
+STATE,Humanitarian,Israel,25000.0
+STATE,Humanitarian,Jordan,75522660.0
+STATE,Humanitarian,Kenya,2381668.0
+STATE,Humanitarian,Lebanon,3000000.0
+STATE,Humanitarian,Mauritania,2134984.0
+STATE,Humanitarian,Mozambique,1257759.0
+STATE,Humanitarian,Nigeria,1126126.0
+STATE,Humanitarian,Peru,3497000.0
+STATE,Humanitarian,Somalia,35300000.0
+STATE,Humanitarian,South Africa,564035.0
+STATE,Humanitarian,South Sudan,2837588.0
+STATE,Humanitarian,Syria,107200000.0
+STATE,Humanitarian,Tajikistan,15255.0
+STATE,Humanitarian,Tanzania,1000000.0
+STATE,Humanitarian,Thailand,4378746.0
+STATE,Humanitarian,Turkey,6610590.0
+STATE,Humanitarian,Uganda,428125.0
+STATE,Humanitarian,Uruguay,580000.0
+STATE,Humanitarian,Venezuela,2700000.0
+STATE,Other,Afghanistan,480938.0
+STATE,Other,Albania,18000.0
+STATE,Other,Armenia,72448.0
+STATE,Other,Azerbaijan,36773.0
+STATE,Other,Bangladesh,40000.0
+STATE,Other,Belarus,28060.0
+STATE,Other,Belize,39164.0
+STATE,Other,Benin,6248.0
+STATE,Other,Bosnia and Herzegovina,35717.0
+STATE,Other,Burkina Faso,99858.0
+STATE,Other,Cabo Verde,3500.0
+STATE,Other,Cambodia,75000.0
+STATE,Other,Cameroon,147437.0
+STATE,Other,China (P.R.C.),181458.0
+STATE,Other,Congo (Brazzaville),1675.0
+STATE,Other,Cote d'Ivoire,9891.0
+STATE,Other,El Salvador,157572.0
+STATE,Other,Gabon,3839.0
+STATE,Other,Gambia,4098.0
+STATE,Other,Georgia,92711.0
+STATE,Other,Guinea,43500.0
+STATE,Other,Iraq,85000.0
+STATE,Other,Israel,581300.0
+STATE,Other,Kazakhstan,23175.0
+STATE,Other,Kosovo,31672.0
+STATE,Other,Kuwait,137994.0
+STATE,Other,Kyrgyzstan,64000.0
+STATE,Other,Lebanon,163500.0
+STATE,Other,Lesotho,8212.0
+STATE,Other,Liberia,6442.0
+STATE,Other,Malawi,14957.0
+STATE,Other,Mali,7614.0
+STATE,Other,Moldova,4948.0
+STATE,Other,Morocco,322175.0
+STATE,Other,Mozambique,20000.0
+STATE,Other,Nigeria,7405.0
+STATE,Other,Panama,183639.0
+STATE,Other,Poland,36360.0
+STATE,Other,Russia,58000.0
+STATE,Other,Senegal,10250.0
+STATE,Other,Serbia,10821.0
+STATE,Other,Sierra Leone,5249.0
+STATE,Other,Tajikistan,997.0
+STATE,Other,Tanzania,8212.0
+STATE,Other,Timor-Leste,5000.0
+STATE,Other,Togo,12872.0
+STATE,Other,Tunisia,1241120.0
+STATE,Other,Turkmenistan,9880.0
+STATE,Other,Uganda,35648.0
+STATE,Other,Ukraine,36637.0
+STATE,Other,Yemen,116242.0
+STATE,Other,Zimbabwe,13782.0
+TDA,Economic Growth,China (P.R.C.),103755.0
+TDA,Economic Growth,Egypt,131547.0
+TDA,Economic Growth,India,15840.0
+TDA,Economic Growth,Morocco,121992.0
+TDA,Health and Population,Cameroon,56811.0
+TDA,Infrastructure,Brazil,311190.0
+TDA,Infrastructure,China (P.R.C.),291421.0
+TDA,Infrastructure,Ghana,391381.0
+TDA,Infrastructure,India,920543.0
+TDA,Infrastructure,Jamaica,106991.0
+TDA,Infrastructure,Kenya,90000.0
+TDA,Infrastructure,South Africa,252293.0
+TDA,Infrastructure,Turkey,212262.0
+TDA,Infrastructure,Vietnam,220000.0
+TDA,Infrastructure,Zambia,140908.0
+TDA,Other,China (P.R.C.),215600.0
+TDA,Other,South Africa,35749.0
+TREAS,Governance,Botswana,51921.0
+TREAS,Governance,Brazil,62400.0
+TREAS,Governance,Ecuador,226900.0
+TREAS,Governance,Gambia,109200.0
+TREAS,Governance,Moldova,48917.0
+TREAS,Governance,Rwanda,706777.0
+USAID,Administrative Costs,Afghanistan,12844339.0
+USAID,Administrative Costs,Albania,21043.0
+USAID,Administrative Costs,Angola,761056.0
+USAID,Administrative Costs,Armenia,25400.0
+USAID,Administrative Costs,Azerbaijan,544392.0
+USAID,Administrative Costs,Bangladesh,1812237.0
+USAID,Administrative Costs,Belarus,2160.0
+USAID,Administrative Costs,Benin,39312.0
+USAID,Administrative Costs,Bosnia and Herzegovina,324604.0
+USAID,Administrative Costs,Botswana,52491.0
+USAID,Administrative Costs,Brazil,331077.0
+USAID,Administrative Costs,Burkina Faso,4376074.0
+USAID,Administrative Costs,Burma (Myanmar),3950330.0
+USAID,Administrative Costs,Burundi,862479.0
+USAID,Administrative Costs,Cambodia,95820.0
+USAID,Administrative Costs,Cameroon,157998.0
+USAID,Administrative Costs,Colombia,2426902.0
+USAID,Administrative Costs,Congo (Kinshasa),1839408.0
+USAID,Administrative Costs,Cote d'Ivoire,407137.0
+USAID,Administrative Costs,Cuba,58705.0
+USAID,Administrative Costs,Djibouti,331775.0
+USAID,Administrative Costs,Dominican Republic,1309942.0
+USAID,Administrative Costs,Egypt,1922867.0
+USAID,Administrative Costs,El Salvador,305211.0
+USAID,Administrative Costs,Ethiopia,4069378.0
+USAID,Administrative Costs,Georgia,1850016.0
+USAID,Administrative Costs,Ghana,1310461.0
+USAID,Administrative Costs,Guatemala,512277.0
+USAID,Administrative Costs,Guinea,867105.0
+USAID,Administrative Costs,Haiti,2645778.0
+USAID,Administrative Costs,Honduras,4132608.0
+USAID,Administrative Costs,Hungary,177742.0
+USAID,Administrative Costs,India,808497.0
+USAID,Administrative Costs,Indonesia,95384.0
+USAID,Administrative Costs,Iraq,2799045.0
+USAID,Administrative Costs,Jamaica,577420.0
+USAID,Administrative Costs,Jordan,15783722.0
+USAID,Administrative Costs,Kazakhstan,623016.0
+USAID,Administrative Costs,Kenya,5874374.0
+USAID,Administrative Costs,Kosovo,1139343.0
+USAID,Administrative Costs,Kyrgyzstan,418549.0
+USAID,Administrative Costs,Laos,43376.0
+USAID,Administrative Costs,Lebanon,1943732.0
+USAID,Administrative Costs,Liberia,4029478.0
+USAID,Administrative Costs,Libya,154978.0
+USAID,Administrative Costs,Madagascar,325235.0
+USAID,Administrative Costs,Malawi,1380040.0
+USAID,Administrative Costs,Malaysia,192171.0
+USAID,Administrative Costs,Mali,50608.0
+USAID,Administrative Costs,Mauritania,33137.0
+USAID,Administrative Costs,Mexico,132687.0
+USAID,Administrative Costs,Moldova,114766.0
+USAID,Administrative Costs,Morocco,149365.0
+USAID,Administrative Costs,Mozambique,561672.0
+USAID,Administrative Costs,Nepal,66172.0
+USAID,Administrative Costs,Nicaragua,38300.0
+USAID,Administrative Costs,Niger,62176.0
+USAID,Administrative Costs,Nigeria,1103167.0
+USAID,Administrative Costs,North Macedonia,228471.0
+USAID,Administrative Costs,Pakistan,1888518.0
+USAID,Administrative Costs,Papua New Guinea,12517.0
+USAID,Administrative Costs,Paraguay,65100.0
+USAID,Administrative Costs,Peru,351310.0
+USAID,Administrative Costs,Philippines,524241.0
+USAID,Administrative Costs,Rwanda,1042238.0
+USAID,Administrative Costs,Senegal,3232513.0
+USAID,Administrative Costs,Serbia,2921874.0
+USAID,Administrative Costs,Sierra Leone,207187.0
+USAID,Administrative Costs,Somalia,166354.0
+USAID,Administrative Costs,South Africa,2185125.0
+USAID,Administrative Costs,South Sudan,5223466.0
+USAID,Administrative Costs,Sri Lanka,13846.0
+USAID,Administrative Costs,Sudan,643.0
+USAID,Administrative Costs,Syria,150395.0
+USAID,Administrative Costs,Tajikistan,6975.0
+USAID,Administrative Costs,Tanzania,2296509.0
+USAID,Administrative Costs,Timor-Leste,397314.0
+USAID,Administrative Costs,Tunisia,254678.0
+USAID,Administrative Costs,Turkey,3168.0
+USAID,Administrative Costs,Turkmenistan,51128.0
+USAID,Administrative Costs,Uganda,920645.0
+USAID,Administrative Costs,Ukraine,544457.0
+USAID,Administrative Costs,Uzbekistan,128148.0
+USAID,Administrative Costs,Venezuela,74400.0
+USAID,Administrative Costs,Vietnam,146164.0
+USAID,Administrative Costs,West Bank/Gaza,270515.0
+USAID,Administrative Costs,Yemen,42975.0
+USAID,Administrative Costs,Zambia,1909979.0
+USAID,Administrative Costs,Zimbabwe,2670205.0
+USAID,Agriculture,Afghanistan,3925504.0
+USAID,Agriculture,Bangladesh,1388335.0
+USAID,Agriculture,Burma (Myanmar),762992.0
+USAID,Agriculture,Burundi,25515.0
+USAID,Agriculture,Cambodia,1926143.0
+USAID,Agriculture,Colombia,6000000.0
+USAID,Agriculture,Congo (Kinshasa),600000.0
+USAID,Agriculture,Egypt,2540673.0
+USAID,Agriculture,Ethiopia,4505131.0
+USAID,Agriculture,Georgia,600000.0
+USAID,Agriculture,Ghana,4574981.0
+USAID,Agriculture,Guatemala,1197815.0
+USAID,Agriculture,Haiti,37537.0
+USAID,Agriculture,Honduras,20028.0
+USAID,Agriculture,India,36261.0
+USAID,Agriculture,Kenya,8276860.0
+USAID,Agriculture,Malawi,4257814.0
+USAID,Agriculture,Mali,613234.0
+USAID,Agriculture,Mozambique,3440.0
+USAID,Agriculture,Nepal,3688265.0
+USAID,Agriculture,Nigeria,1377954.0
+USAID,Agriculture,Pakistan,850000.0
+USAID,Agriculture,Peru,1822.0
+USAID,Agriculture,Rwanda,6896653.0
+USAID,Agriculture,Senegal,1314547.0
+USAID,Agriculture,Sierra Leone,923.0
+USAID,Agriculture,South Africa,2999400.0
+USAID,Agriculture,Tajikistan,1989922.0
+USAID,Agriculture,Tanzania,1231146.0
+USAID,Agriculture,Uganda,8724979.0
+USAID,Agriculture,Venezuela,100000.0
+USAID,Agriculture,Zambia,251196.0
+USAID,Commodity Assistance,Bangladesh,3245428.0
+USAID,Commodity Assistance,Burundi,175628.0
+USAID,Commodity Assistance,Congo (Kinshasa),544223.0
+USAID,Commodity Assistance,Ethiopia,1559448.0
+USAID,Commodity Assistance,Kyrgyzstan,175000.0
+USAID,Commodity Assistance,Madagascar,241840.0
+USAID,Commodity Assistance,Nepal,121500.0
+USAID,Commodity Assistance,Niger,423475.0
+USAID,Commodity Assistance,Pakistan,2592.0
+USAID,Commodity Assistance,Senegal,49809.0
+USAID,Commodity Assistance,South Africa,39173.0
+USAID,Commodity Assistance,South Sudan,80830.0
+USAID,Commodity Assistance,Uganda,6113520.0
+USAID,Commodity Assistance,Zimbabwe,11615920.0
+USAID,Economic Growth,Afghanistan,5682875.0
+USAID,Economic Growth,Albania,332482.0
+USAID,Economic Growth,Armenia,737576.0
+USAID,Economic Growth,Belarus,195556.0
+USAID,Economic Growth,Bosnia and Herzegovina,1416662.0
+USAID,Economic Growth,Burma (Myanmar),4500000.0
+USAID,Economic Growth,Congo (Kinshasa),250000.0
+USAID,Economic Growth,Cote d'Ivoire,200000.0
+USAID,Economic Growth,Ghana,166805.0
+USAID,Economic Growth,Guatemala,4389025.0
+USAID,Economic Growth,Guinea,198532.0
+USAID,Economic Growth,Honduras,2244629.0
+USAID,Economic Growth,Jamaica,285009.0
+USAID,Economic Growth,Jordan,600000.0
+USAID,Economic Growth,Kenya,210322.0
+USAID,Economic Growth,Kosovo,154340.0
+USAID,Economic Growth,Laos,905994.0
+USAID,Economic Growth,Lebanon,3466635.0
+USAID,Economic Growth,Mozambique,2781742.0
+USAID,Economic Growth,Nepal,555973.0
+USAID,Economic Growth,Pakistan,1037462.0
+USAID,Economic Growth,Philippines,13427.0
+USAID,Economic Growth,Serbia,273507.0
+USAID,Economic Growth,Somalia,1388388.0
+USAID,Economic Growth,South Africa,14707.0
+USAID,Economic Growth,Sri Lanka,44168.0
+USAID,Economic Growth,Turkmenistan,28862.0
+USAID,Economic Growth,Ukraine,4458383.0
+USAID,Economic Growth,Yemen,590400.0
+USAID,Education,Afghanistan,32988524.0
+USAID,Education,Benin,31895.0
+USAID,Education,Egypt,1879969.0
+USAID,Education,Ethiopia,2476827.0
+USAID,Education,Ghana,8982890.0
+USAID,Education,Guatemala,351176.0
+USAID,Education,Honduras,5925081.0
+USAID,Education,India,600000.0
+USAID,Education,Indonesia,2831364.0
+USAID,Education,Jordan,10674178.0
+USAID,Education,Kosovo,1044169.0
+USAID,Education,Kyrgyzstan,455135.0
+USAID,Education,Lebanon,7551711.0
+USAID,Education,Malawi,350000.0
+USAID,Education,Mexico,475000.0
+USAID,Education,Morocco,421866.0
+USAID,Education,Nigeria,86689.0
+USAID,Education,North Macedonia,13054.0
+USAID,Education,Pakistan,3733224.0
+USAID,Education,Peru,25000.0
+USAID,Education,Philippines,965759.0
+USAID,Education,Rwanda,17766361.0
+USAID,Education,Senegal,11869988.0
+USAID,Education,Uganda,5102397.0
+USAID,Education,West Bank/Gaza,221363.0
+USAID,Governance,Afghanistan,163073017.0
+USAID,Governance,Albania,250000.0
+USAID,Governance,Armenia,149018.0
+USAID,Governance,Azerbaijan,250000.0
+USAID,Governance,Bangladesh,3854543.0
+USAID,Governance,Bosnia and Herzegovina,1023918.0
+USAID,Governance,Burma (Myanmar),6158600.0
+USAID,Governance,Burundi,342400.0
+USAID,Governance,Cambodia,6335746.0
+USAID,Governance,Cameroon,2038.0
+USAID,Governance,Colombia,135763.0
+USAID,Governance,Congo (Kinshasa),1708274.0
+USAID,Governance,Cuba,445747.0
+USAID,Governance,Dominican Republic,2629767.0
+USAID,Governance,Egypt,580200.0
+USAID,Governance,El Salvador,2691896.0
+USAID,Governance,Ethiopia,170349.0
+USAID,Governance,Fiji,3124.0
+USAID,Governance,Gambia,78819.0
+USAID,Governance,Georgia,860168.0
+USAID,Governance,Guatemala,7618058.0
+USAID,Governance,Haiti,3060312.0
+USAID,Governance,Honduras,2748082.0
+USAID,Governance,India,449365.0
+USAID,Governance,Indonesia,126835.0
+USAID,Governance,Iraq,6100000.0
+USAID,Governance,Ireland,1125000.0
+USAID,Governance,Jamaica,1921010.0
+USAID,Governance,Jordan,24472.0
+USAID,Governance,Kenya,2050850.0
+USAID,Governance,Kosovo,622263.0
+USAID,Governance,Kyrgyzstan,1761046.0
+USAID,Governance,Liberia,6054692.0
+USAID,Governance,Libya,4948116.0
+USAID,Governance,Madagascar,9085.0
+USAID,Governance,Mali,188916.0
+USAID,Governance,Mauritania,400000.0
+USAID,Governance,Mexico,8205788.0
+USAID,Governance,Moldova,1564038.0
+USAID,Governance,Morocco,3927792.0
+USAID,Governance,Mozambique,295093.0
+USAID,Governance,Nepal,15407.0
+USAID,Governance,Nicaragua,250000.0
+USAID,Governance,Niger,8147096.0
+USAID,Governance,Nigeria,3178501.0
+USAID,Governance,Pakistan,2600708.0
+USAID,Governance,Paraguay,50000.0
+USAID,Governance,Philippines,4012016.0
+USAID,Governance,Rwanda,321413.0
+USAID,Governance,Senegal,599250.0
+USAID,Governance,Serbia,87355.0
+USAID,Governance,South Africa,2197086.0
+USAID,Governance,South Sudan,13114.0
+USAID,Governance,Tanzania,600.0
+USAID,Governance,Thailand,1517577.0
+USAID,Governance,Tunisia,9754397.0
+USAID,Governance,Turkmenistan,530000.0
+USAID,Governance,Uganda,96514.0
+USAID,Governance,Ukraine,3867353.0
+USAID,Governance,Uzbekistan,325532.0
+USAID,Governance,Venezuela,3893904.0
+USAID,Governance,Vietnam,890640.0
+USAID,Governance,West Bank/Gaza,489434.0
+USAID,Governance,Zambia,310.0
+USAID,Governance,Zimbabwe,1003809.0
+USAID,Health and Population,Afghanistan,20232947.0
+USAID,Health and Population,Angola,10142563.0
+USAID,Health and Population,Armenia,176126.0
+USAID,Health and Population,Bangladesh,9339116.0
+USAID,Health and Population,Benin,2458157.0
+USAID,Health and Population,Botswana,7874786.0
+USAID,Health and Population,Burkina Faso,3258743.0
+USAID,Health and Population,Burma (Myanmar),2121324.0
+USAID,Health and Population,Burundi,2332118.0
+USAID,Health and Population,Cambodia,2314976.0
+USAID,Health and Population,Cameroon,11023125.0
+USAID,Health and Population,Congo (Kinshasa),22961432.0
+USAID,Health and Population,Cote d'Ivoire,6086647.0
+USAID,Health and Population,Dominican Republic,396.0
+USAID,Health and Population,Egypt,1019.0
+USAID,Health and Population,El Salvador,3153.0
+USAID,Health and Population,Eswatini,1523647.0
+USAID,Health and Population,Ethiopia,36013868.0
+USAID,Health and Population,Georgia,8464.0
+USAID,Health and Population,Ghana,2034705.0
+USAID,Health and Population,Guatemala,2996528.0
+USAID,Health and Population,Guinea,153400.0
+USAID,Health and Population,Haiti,17429037.0
+USAID,Health and Population,Honduras,15676.0
+USAID,Health and Population,India,2883300.0
+USAID,Health and Population,Indonesia,1205033.0
+USAID,Health and Population,Israel,966083.0
+USAID,Health and Population,Jamaica,802961.0
+USAID,Health and Population,Jordan,1924853.0
+USAID,Health and Population,Kenya,22493521.0
+USAID,Health and Population,Kyrgyzstan,99120.0
+USAID,Health and Population,Lebanon,525129.0
+USAID,Health and Population,Lesotho,99088.0
+USAID,Health and Population,Liberia,2839890.0
+USAID,Health and Population,Madagascar,3603979.0
+USAID,Health and Population,Malawi,19541297.0
+USAID,Health and Population,Malaysia,404423.0
+USAID,Health and Population,Mali,3845414.0
+USAID,Health and Population,Mozambique,8290528.0
+USAID,Health and Population,Namibia,781038.0
+USAID,Health and Population,Nepal,4249057.0
+USAID,Health and Population,Nicaragua,500.0
+USAID,Health and Population,Niger,9103092.0
+USAID,Health and Population,Nigeria,13394489.0
+USAID,Health and Population,Pakistan,430615.0
+USAID,Health and Population,Panama,1688.0
+USAID,Health and Population,Philippines,521733.0
+USAID,Health and Population,Rwanda,13757560.0
+USAID,Health and Population,Senegal,27047981.0
+USAID,Health and Population,Sierra Leone,11393053.0
+USAID,Health and Population,South Africa,28808518.0
+USAID,Health and Population,South Sudan,6564.0
+USAID,Health and Population,Tajikistan,330220.0
+USAID,Health and Population,Tanzania,48024436.0
+USAID,Health and Population,Thailand,4866.0
+USAID,Health and Population,Uganda,37555039.0
+USAID,Health and Population,Ukraine,22188.0
+USAID,Health and Population,Uzbekistan,630106.0
+USAID,Health and Population,Vietnam,7106829.0
+USAID,Health and Population,Yemen,6330000.0
+USAID,Health and Population,Zambia,56733757.0
+USAID,Health and Population,Zimbabwe,5990783.0
+USAID,Humanitarian,Afghanistan,4359289.0
+USAID,Humanitarian,Bahamas,3695265.0
+USAID,Humanitarian,Bangladesh,7221.0
+USAID,Humanitarian,Brazil,5769550.0
+USAID,Humanitarian,Burkina Faso,4262741.0
+USAID,Humanitarian,Burundi,2447648.0
+USAID,Humanitarian,Cameroon,2270174.0
+USAID,Humanitarian,Central African Republic,19511300.0
+USAID,Humanitarian,Colombia,9051626.0
+USAID,Humanitarian,Congo (Kinshasa),39297156.0
+USAID,Humanitarian,Costa Rica,55693.0
+USAID,Humanitarian,Djibouti,2700000.0
+USAID,Humanitarian,Ecuador,288649.0
+USAID,Humanitarian,Egypt,18000000.0
+USAID,Humanitarian,Ethiopia,3761531.0
+USAID,Humanitarian,Guatemala,18438.0
+USAID,Humanitarian,Haiti,32956.0
+USAID,Humanitarian,Honduras,115156.0
+USAID,Humanitarian,Indonesia,471686.0
+USAID,Humanitarian,Iraq,59061456.0
+USAID,Humanitarian,Jordan,44124.0
+USAID,Humanitarian,Libya,500000.0
+USAID,Humanitarian,Madagascar,3369419.0
+USAID,Humanitarian,Malawi,69763.0
+USAID,Humanitarian,Mali,2028782.0
+USAID,Humanitarian,Mauritania,1337362.0
+USAID,Humanitarian,Micronesia (Federated States),1542799.0
+USAID,Humanitarian,Mozambique,1450000.0
+USAID,Humanitarian,Namibia,825.0
+USAID,Humanitarian,Nepal,737717.0
+USAID,Humanitarian,Niger,2110984.0
+USAID,Humanitarian,Nigeria,10014113.0
+USAID,Humanitarian,Pakistan,2000000.0
+USAID,Humanitarian,Peru,519514.0
+USAID,Humanitarian,Rwanda,800000.0
+USAID,Humanitarian,Senegal,1000000.0
+USAID,Humanitarian,Sierra Leone,99958.0
+USAID,Humanitarian,Somalia,38903744.0
+USAID,Humanitarian,South Africa,16565.0
+USAID,Humanitarian,South Sudan,200988967.0
+USAID,Humanitarian,Sudan,27901285.0
+USAID,Humanitarian,Syria,21570222.0
+USAID,Humanitarian,Tanzania,11145343.0
+USAID,Humanitarian,Thailand,98400.0
+USAID,Humanitarian,Timor-Leste,1081023.0
+USAID,Humanitarian,Turkey,10004.0
+USAID,Humanitarian,Uganda,461466.0
+USAID,Humanitarian,Ukraine,542238.0
+USAID,Humanitarian,Venezuela,500000.0
+USAID,Humanitarian,Yemen,683359.0
+USAID,Humanitarian,Zimbabwe,1312448.0
+USAID,Infrastructure,Afghanistan,12856774.0
+USAID,Infrastructure,Bosnia and Herzegovina,566880.0
+USAID,Infrastructure,Ethiopia,323396.0
+USAID,Infrastructure,Mozambique,2016.0
+USAID,Infrastructure,Nigeria,749984.0
+USAID,Infrastructure,Pakistan,104846.0
+USAID,Infrastructure,Uzbekistan,93307.0
+USAID,Infrastructure,Zambia,1810.0
+USAID,Other,Afghanistan,3093531.0
+USAID,Other,Albania,18438.0
+USAID,Other,Bangladesh,351344.0
+USAID,Other,Bosnia and Herzegovina,474941.0
+USAID,Other,Brazil,1628921.0
+USAID,Other,China (P.R.C.),6597.0
+USAID,Other,Colombia,1473162.0
+USAID,Other,Congo (Kinshasa),175161.0
+USAID,Other,Georgia,942817.0
+USAID,Other,Ghana,60333.0
+USAID,Other,Guinea,64533.0
+USAID,Other,India,2013445.0
+USAID,Other,Indonesia,1090116.0
+USAID,Other,Jamaica,18438.0
+USAID,Other,Jordan,1896.0
+USAID,Other,Kenya,1153544.0
+USAID,Other,Kyrgyzstan,25497.0
+USAID,Other,Malawi,1478.0
+USAID,Other,Mexico,200000.0
+USAID,Other,Mozambique,1801098.0
+USAID,Other,Nicaragua,9219.0
+USAID,Other,Nigeria,248820.0
+USAID,Other,North Macedonia,9219.0
+USAID,Other,Pakistan,1032528.0
+USAID,Other,Peru,166630.0
+USAID,Other,Philippines,135124.0
+USAID,Other,Rwanda,169011.0
+USAID,Other,Senegal,49827.0
+USAID,Other,South Africa,16592.0
+USAID,Other,Syria,400117.0
+USAID,Other,Tanzania,604019.0
+USAID,Other,Timor-Leste,55833.0
+USAID,Other,Uganda,1253845.0
+USAID,Other,Vietnam,6668620.0
+USAID,Other,Zambia,45500.0
+USAID,Other,Zimbabwe,147504.0
