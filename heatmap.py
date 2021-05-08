@@ -72,6 +72,7 @@ sub= reset[keep]
 grouped =sub.groupby(['country','dac_category'])
 summed = grouped['amt'].sum()
 grid = summed.unstack('country')
+grid = grid.fillna(0)
 
 #plot heatmap
 fig, ax1 = plt.subplots(dpi=300, figsize=(8,8))
