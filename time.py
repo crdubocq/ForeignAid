@@ -75,5 +75,5 @@ fig.suptitle("Foreign Aid with/o Afghanistan")
 ax1.set_xlabel("Year")
 ax1.set_ylabel("Millions of Dollars")
 plt.legend()
-fig.savefig('AfghanAid.png')
+fig.savefig('TotalAfghanAid.png')
 
