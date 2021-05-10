@@ -33,7 +33,7 @@ mil = mil/1e6
 by_country = mil.sum(level='country')
 top_country = by_country.sort_values()
 top_country = top_country[-10:]
-print('Top Recipient Countries:',top_country)
+print('\nTop Recipient Countries:',top_country)
 
 by_agency = mil.sum(level='agency')
 top_agency = by_agency.sort_values()

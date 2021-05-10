@@ -38,7 +38,7 @@ fig,ax1 = plt.subplots(dpi=300)
 fig.suptitle("Foreign Aid to Afghanistan")
 amil.plot(ax=ax1)
 ax1.set_xlabel('Years')
-ax1.set_ylabel('Million Dollars')
+ax1.set_ylabel('Millions of Dollars')
 fig.tight_layout()
 fig.savefig("afg_aid.png")
 
@@ -56,7 +56,7 @@ fig,ax1 = plt.subplots(dpi=300)
 fig.suptitle("Foreign Aid without Afghanistan")
 sanmil.plot(ax=ax1)
 ax1.set_xlabel('Years')
-ax1.set_ylabel('Million Dollars')
+ax1.set_ylabel('Millions of Dollars')
 fig.tight_layout()
 fig.savefig("afg_sin_aid.png")
 
@@ -66,11 +66,46 @@ res_total = res_list['amt'].sum()
 rmil = res_total.sum(level=['fiscal_year'])
 rmil = rmil/1e9
 
+fig,ax1 = plt.subplots(dpi=300)
+fig.suptitle("Foreign Aid with Afghanistan")
+rmil.plot(ax=ax1)
+ax1.set_xlabel('Years')
+ax1.set_ylabel('Millions of Dollars')
+fig.tight_layout()
+fig.savefig("total_aid.png")
 #%%
 #plot both lines together 
 fig,ax1 = plt.subplots(dpi=300)
 sns.lineplot(data=rmil, label='Total Aid')
 sns.lineplot(data=sanmil, label ='W/o Afghanistan')
+fig.suptitle("Foreign Aid with/o Afghanistan")
+ax1.set_xlabel("Year")
+ax1.set_ylabel("Millions of Dollars")
+plt.legend()
+fig.savefig('TotalAfghanAid.png')
+
+#%%
+
+isr = aidhist.query('country !="Israel"')
+
+isr_list = isr.groupby(['fiscal_year'])
+isr_total = isr_list['amt'].sum()
+imil = isr_total.sum(level=['fiscal_year'])
+imil = imil/1e9
+
+# plot Israel aid
+fig,ax1 = plt.subplots(dpi=300)
+fig.suptitle("Foreign Aid to Israel")
+imil.plot(ax=ax1)
+ax1.set_xlabel('Years')
+ax1.set_ylabel('Million Dollars')
+fig.tight_layout()
+fig.savefig("irs_aid.png")
+
+fig,ax1 = plt.subplots(dpi=300)
+sns.lineplot(data=rmil, label='Total Aid')
+##sns.lineplot(data=sanmil, label ='W/o Afghanistan')
+sns.lineplot(data=imil, label ='W/o Israel')
 fig.suptitle("Foreign Aid with/o Afghanistan")
 ax1.set_xlabel("Year")
 ax1.set_ylabel("Millions of Dollars")
