@@ -8,7 +8,7 @@ Created on Sun May  9 22:19:29 2021
 import pandas as pd
 import matplotlib.pyplot as plt
 
-
+# print and plot top ten developemnt assitance categories for a given country
 def category(db):
     group_by_dac = db.groupby(["dac_category"])
     by_dac = group_by_dac['amt'].sum()
@@ -27,8 +27,9 @@ def category(db):
     
 #%%
 
+# Example
 clean = pd.read_csv("clean_aid.csv")
-dac_bolivia = clean.query('country =="Pakistan"')
+dac_Texas = clean.query('country =="Republic of Texas"')
 
-category(dac_bolivia)
+category(dac_Texas)
     

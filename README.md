@@ -19,4 +19,16 @@ After indetifying these Top 10 categories, I wondered how these interacted with 
 
 ### Time.py 
 
-Since ientifying Afghanistan as a top recepient of Governance DAC, I wonder how much of it began since 2001, and how much of Afghanistan aid makes up the whole of US Foreign aid. For this I reduce the dataset to only records after 1980. **TotalAfghanAid.png** shows the flow of US since the 1980s and that same flow if aid to Afghanistan is taken out. Furthermore, **afghna_aid.png** show the flow of aid to Afghanistan by itself and how it increased after the 2000s. 
+Since ientifying Afghanistan as a top recepient of Governance DAC, I wonder how much of it began since 2001, and how much of Afghanistan aid makes up the whole of US Foreign aid. For this I reduce the dataset to only records after 1980. **TotalAfghanAid.png** shows the flow of US since the 1980s and that same flow if aid to Afghanistan is taken out. Furthermore, **afghna_aid.png** show the flow of aid to Afghanistan by itself and how it increased after the 2000s. For comparison, the same process was replicate with Israel aid, the top recepient of US foreign aid.
+
+### Function.py 
+
+Use this function to quickly print and plot your queried country's top ten development assistance categories. 
+
+### Compare.py
+
+A comparison of aid to Israel and Afghanistan. It has additional scripts investigation what Other in the Development Assitance category consists of by looking into where its going the most. 
+
+###Distribution.py 
+
+This script shows the historic distribution of US foreign aid by income group and by region. 
