@@ -35,6 +35,7 @@ print("\nPercentage of Aid w/o AFG:", wholeper)
 
 #%%
 
+# how much of the total US aid goes to which Income categories
 lic = aiddist.query('income =="LIC"')
 licsum = lic['amt'].sum()
 licper = lic['percentage'].sum()
@@ -63,14 +64,15 @@ regionper =by_region['percentage'].sum()
 print(regionper)
 #%%
 
+#group by year, income, and amount to make an area plot that shows the the composition of US foreign aid by income group 
 income = aiddist[['fiscal_year','income','amt']].copy()
 income['amt'] = income['amt'].astype(float)
 
 group_by_income = income.groupby(["fiscal_year","income"])
 by_income = group_by_income['amt'].sum()
 unstacked = by_income.unstack()
-#[1981, 1981, 1989, 1993, 1997, 2001, 2005, 2009, 2013, 2017, 2021]
 
+#areaplot
 fig, ax1 = plt.subplots(dpi=300)
 fig.suptitle("Income Group Distribution")
 unstacked.plot.area(ax=ax1, stacked=True)
@@ -82,12 +84,14 @@ fig.savefig('IncomeDistribution.png')
 
 #%%
 
+# same as above but by region 
 region = aiddist[['fiscal_year', 'region_name', 'amt']].copy()
 
 group_by_region = region.groupby(["fiscal_year", "region_name"])
 by_region =group_by_region['amt'].sum()
 runstacked = by_region.unstack()
 
+#areaplot 
 fig, ax1 = plt.subplots(dpi=300)
 fig.suptitle("Regional Distribution")
 runstacked.plot.area(ax=ax1, stacked=True)

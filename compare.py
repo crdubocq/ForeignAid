@@ -48,7 +48,7 @@ afg_total = afg_list['amt'].sum()
 mil = afg_total.sum(level=['dac_category'])
 mil = mil/1e9
 
-# plot Israel aid by dac
+# plot Afghanistan aid by dac
 fig,ax1 = plt.subplots(dpi=300)
 fig.suptitle("Foreign Aid to Afghanistan")
 mil.plot(ax=ax1)
@@ -72,7 +72,7 @@ fig.savefig('AFGtop10.png')
 
 #%%
 
-# where is other going?
+# where is Other going?
 
 oth = i.query('dac_category=="Other"')
 
@@ -91,8 +91,6 @@ top_country.plot.barh(ax=ax3, fontsize = 7)
 ax3.set_xlabel('Top Other Recepient')
 fig.tight_layout()
 fig.savefig('TopOther.png')
-
-#%%
 
 isr = i.query('dac_category=="Other"')
 
@@ -113,6 +111,8 @@ fig.tight_layout()
 fig.savefig('TopOtherAgency.png')
 
 #%%
+
+#Where is aid from DOD going?
 
 dod = i.query('agency =="DOD"')
 
